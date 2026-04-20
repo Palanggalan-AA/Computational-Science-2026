@@ -1,2 +1,1 @@
-
-[Case Analysis Document](https://github.com/Palanggalan-AA/Computational-Science-2026/blob/10b56150d2545046a3fdadd67d2ee8175c8953b7/Case%20Analysis.docx)
+<iframe src="https://view.officeapps.live.com/op/embed.aspx?src=https://github.com/Palanggalan-AA/Computational-Science-2026/raw/10b56150d2545046a3fdadd67d2ee8175c8953b7/Case%20Analysis.docx" width="100%" height="600px"></iframe>
